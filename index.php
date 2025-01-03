@@ -9,7 +9,7 @@
 
     <h2>Formulario de Registro</h2>
 
-    <form action="procesar.php" method="POST">
+    <form ction="procesar.php" method="POST">
         <label for="username">Nombre de Usuario:</label><br>
         <input type="text" id="username" name="username" required><br><br>
 
@@ -17,7 +17,7 @@
         <input type="password" id="password" name="password" required><br><br>
 
         <input type="submit" value="Registrar">
-    </form>
+    <form>
 
 </body>
 </html>
